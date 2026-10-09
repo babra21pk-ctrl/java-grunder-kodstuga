@@ -10,7 +10,7 @@ public class If {
             System.out.println("Du får åka med en vuxen.");
 
         } else {
-            System.out.println("Du får inte åka berg och dalbanan.");
+            System.out.println("Du får inte åka berg och dalbanan.");""
 
         }
             
